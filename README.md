@@ -27,16 +27,14 @@ Meus projetos nascem de dores reais do dia a dia, sempre com foco na entrega de 
 
 [Acesse meu portifólio](https://app.powerbi.com/view?r=eyJrIjoiYzNlZmJhMWMtZTRkNy00OTAwLTk3ZDUtMWNhZDljZmExMjIzIiwidCI6ImY0ZWJlM2ZiLThiNDItNGI4OC1hNDZmLTBiZTk2NWViZWY4MSJ9)
 
-Autor de um e-book para iniciantes na ferramenta do Power BI. Introdução ao Power BI 1.9 case Prático
-[Adquirir E-book](https://www.linkedin.com/in/robsoncarlos-rc/)
+**Autor de um e-book para iniciantes na ferramenta do Power BI. Introdução ao Power BI 1.9 case Prático**
+**[Adquirir E-book](https://www.linkedin.com/in/robsoncarlos-rc/)**
 
 ---
 
 📫 Entre em contato para colaborações ou sugestões:
 **robson.rotta@gmail.com**
-Ou acesse meu Linked-In via link abaixo:
-[Adquirir E-book]()
-
+ou acesse meu [Linked-In](https://www.linkedin.com/in/robsoncarlos-rc/)
 ---
 > “Automatizar não é só poupar tempo, é liberar a mente para o que realmente importa.”  
 
